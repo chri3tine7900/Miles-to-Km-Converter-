@@ -27,6 +27,6 @@ This is a simple Pomodoro Timer application built using Python and Tkinter. It h
 
 **Note:**
 
-* This is a basic implementation. You can further enhance it by adding features like sound notifications, customizable work sessions, and a more sophisticated user interface.
+* This is a basic implementation. To further enhance it,  add features like sound notifications, customizable work sessions, and a more sophisticated user interface.
 
 I hope this Pomodoro Timer helps you improve your focus and productivity!
